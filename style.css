@@ -1,0 +1,20 @@
+#video{
+    width: 100%;
+    height:500px;
+    border:none;
+}
+.travel_mainDiv{
+    border:1px solidlightgrey;
+}
+.travel_mainDiv img{
+    width:100%;
+}
+.travel_mainDiv h5{
+    margin:20px;
+}
+.travel_mainDiv kbd{
+    background-color:lightcoral;
+}
+hr{
+    border-top: 2px dotted black
+}
